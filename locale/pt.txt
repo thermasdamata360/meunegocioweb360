@@ -1,0 +1,117 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Conheça o Thermas da Mata em 360° graus, seja bem vindo ao melhor lugar do mundo. @thermasdamata
+
+### Title
+tour.name = Thermas da Mata - Tour Virtual 360°
+
+## Skin
+
+### Button
+Button_800A7442_8FB9_D3F9_41CF_75B48D285354.label = Beach Kids
+Button_800A7442_8FB9_D3F9_41CF_75B48D285354_mobile.label = Beach Kids
+Button_87DDF9FD_9BBA_3E22_41BA_1875254ED951.label = Pousadas
+Button_87DDF9FD_9BBA_3E22_41BA_1875254ED951_mobile.label = Pousadas
+Button_9E8D41C9_906D_39ED_41C5_01DACABE33C3.label = Hot Sland
+Button_9E8D41C9_906D_39ED_41C5_01DACABE33C3_mobile.label = Hot Sland
+Button_9EC70F62_906C_CADF_41CF_BE282F7554C2.label = Chalé Premium
+Button_9EC70F62_906C_CADF_41CF_BE282F7554C2_mobile.label = Chalé Premium
+Button_9EC94139_906C_D6AA_41DF_44C56333123E.label = Hotel
+Button_9EC94139_906C_D6AA_41DF_44C56333123E_mobile.label = Hotel
+Button_9ED37DD1_906C_C9FA_41D1_FAB406FA6DAC.label = Tirolesa
+Button_9ED37DD1_906C_C9FA_41D1_FAB406FA6DAC_mobile.label = Tirolesa
+Button_9EE1F90D_906D_3665_4192_6E0A965A4F12.label = Piscina Olimpica
+Button_9EE1F90D_906D_3665_4192_6E0A965A4F12_mobile.label = Piscina Olimpica
+Button_9EEACC30_906C_CEBA_41C4_699E7A89B328.label = Churrasqueiras
+Button_9EEACC30_906C_CEBA_41C4_699E7A89B328_mobile.label = Churrasqueiras
+Button_9EEC3AAE_906C_CBA7_41C2_1A6BA433C3CD.label = Bangalô
+Button_9EEC3AAE_906C_CBA7_41C2_1A6BA433C3CD_mobile.label = Bangalô
+Button_9EFE04DD_906D_3FEA_41DC_2538CF03B3B5.label = Lago com Pedalinho
+Button_9EFE04DD_906D_3FEA_41DC_2538CF03B3B5_mobile.label = Lago com Pedalinho
+Button_A44DAECB_B1E3_324A_41E5_6B038E76E281_mobile.label = Cyclone
+Button_BB8648E4_AA20_CFA6_419F_4145D76D0F44.label = Drone
+Button_BB8648E4_AA20_CFA6_419F_4145D76D0F44_mobile.label = Drone
+Button_BD03B8E7_B1E5_1E7A_41AD_FA6F21CEAE55.label = Ciclone
+
+### Tooltip
+IconButton_B907A3E2_AA23_C1A2_41D1_515F09770B3B.toolTip = Play/Pause Música
+IconButton_B907A3E2_AA23_C1A2_41D1_515F09770B3B_mobile.toolTip = Play/Pause Música
+
+## Media
+
+### Title
+panorama_8598A2B0_8F7B_3499_41A5_C12C989F39D8.label = Bangalo Beach Kids - Pedalinho
+panorama_86250783_8F89_5D7E_41DA_5F05A5C31AE2.label = Pousadas
+panorama_86257FCE_8F89_4C89_41E0_BAB2DF9ADB86.label = Salão de Jogos Hotel
+panorama_86D8572C_8F7B_DD89_41D0_A02781332CC6.label = Bangalo Hot Sland
+panorama_86D8B20F_8F7A_D786_41AD_717DE4D8E610.label = Beach Kids 3
+panorama_86D8B361_8F7B_55BB_41D2_2C9CF0FDBBCB.label = Beach Kids 2
+panorama_86D8C0AE_8F7A_D489_41D6_6FADF5D05111.label = Beach Kids 4
+panorama_86D8D57C_8F7B_5D89_41D8_0A0C09D1084F.label = Beach Kids 1
+panorama_86D8D684_8F7A_DF7A_41D7_0F46FCFE4EF3.label = Entrada Hot Sland
+panorama_86D8E78D_8F79_3C8B_41D8_DEB97B1B1913.label = Chale Quarto 1
+panorama_86D90049_8F7F_738A_41D3_CE3406666F41.label = Churrasqueira 1
+panorama_86D90F79_8F7F_CD8A_419A_DD2C116DD0BD.label = Churrasqueira 4
+panorama_86D9200C_8F7F_F38A_41D9_11F1164485E3.label = Churrasqueira 3
+panorama_86D92B69_8F7F_558B_41DA_BE5C54BB43C5.label = Ciclone Piscina
+panorama_86D932E8_8F7F_3489_41E0_246673A3403C.label = Chale Terreo
+panorama_86D94C46_8F7E_D3F9_41D1_7D4743F8C6FF.label = Drone Ciclone
+panorama_86D9592E_8F7E_D586_41D4_4892E8F00FBF.label = Drone Beach Kids
+panorama_86D9FD4E_8F7F_4D86_41DD_CA1D2886EE2A.label = Ciclone 1
+panorama_86DA50E3_8F79_D4BF_41DA_1359D2BCF1DB.label = Hotel 1
+panorama_86DA7669_8F7B_DF8B_41D7_D537ED7CAF8C.label = Bangalo Hot Sland 2
+panorama_86DA9541_8F79_5DFB_41CF_94035FAEFDA3.label = Hotel Banheiro
+panorama_86DAA3E5_8F77_74BB_41DC_EA1576822099.label = Piscina Olimpica 1
+panorama_86DAA630_8F79_7F99_41A9_E14E5350C85C.label = Hot Sland 4
+panorama_86DACD97_8F76_CC86_41C6_DC116A0E5DCD.label = Piscina Olimpica 2
+panorama_86DAE9DA_8F79_548E_41DF_ED6D9A476B69.label = Hotel Quarto
+panorama_86DAFFDA_8F76_CC89_41C4_7B59CF63516C.label = Hotel Sacada
+panorama_86DB04AA_8F7E_FC89_41C6_E07B68B6161D.label = Chale Sacada
+panorama_86DB0CD3_8F77_4C9F_41D4_D733920150E6.label = Lojas 2
+panorama_86DB146E_8F76_D389_41D3_BFDB5288D9FF.label = Ponte Beach Kids
+panorama_86DB37F0_8F77_3C9A_41D4_BF3493C5CEEB.label = Lojas 1
+panorama_86DB4CE3_8F79_4CBF_41D4_3654369B1E59.label = Beach Kids 6
+panorama_86DB688B_8F79_748F_41D9_7D0CA7AB29BB.label = Chale Externa
+panorama_86DB6DF0_8F79_4C99_41D9_6D9F53AC8B24.label = Beach Kids 5
+panorama_86DB78B0_8F79_349A_41D9_9A7E1F23EC9D.label = Chale Banheiro
+panorama_86DB9D89_8F77_CC8B_41D3_C47309A49C63.label = Ofuro Hot Sland
+panorama_86DBC1DC_8F77_D489_41D8_32B99DD78E80.label = Ofuro Hot Sland 2
+panorama_86DBE9D5_8F79_F49A_41CE_E46E17ECF547.label = Chale 1° Andar
+panorama_86DDAC0D_8F79_338B_41E1_BAC05FB981F6.label = Hot Sland 5
+panorama_86DE0FB6_8F7B_4C86_41B5_2A1BE927FB5C.label = Ginasio
+panorama_86DE2213_8F7B_379F_41DD_3C927447CA45.label = Externa Hotel
+panorama_86DE32B9_8F7B_548B_419E_9CB83B0216BD.label = Hot Sland 1
+panorama_86DE3A16_8F7B_F786_41A6_030BEADA7743.label = Ginasio Externo
+panorama_86DE64DC_8F7A_DC89_41A8_CCC0DF7299A6.label = Hot Sland 2
+panorama_86DE666C_8F7B_3F89_41C2_E3FC71250958.label = Estande de Tiro
+panorama_86DE7ACD_8F79_748B_41D8_33A6E251D7FA.label = Entrada Cyclone
+panorama_86DEB523_8F79_FDBF_41C3_849EF6177A76.label = Drone Piscina Olimpica
+panorama_86DEBDF6_8F79_4C86_41BC_9A35FF0EA7F5.label = Drone Geral
+panorama_86DECF43_8F79_4DFF_41DA_EDDC040266C3.label = Drone Lago Pedalinho
+panorama_86DF8C0A_8F79_3389_41DD_DF6A8F958715.label = Entrada Beach Kids
+panorama_8EF5B97F_9416_E5D1_41E1_CA757A2AD944.label = Drone Hot Sland
+panorama_AE43CCA5_A506_9C19_41A4_06CAEC9A2B55.label = Hotel Convenções
+panorama_AE4551B1_A506_8479_41E0_8BDB6BC12796.label = Piscina Olimpica Meio
+panorama_AE45FD35_A507_BC79_41D3_E9E3AD9BEA9F.label = Quarto 2 Chale
+panorama_AE757C33_A506_9C7A_4197_738091860594.label = Fachada Cima
+video_B0BF6D55_AA5F_C6E7_41CE_4F8542BF9801.label = SAM_101_1039_20210822223500_20210822223524_1_1
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_BB9A6275_942F_E7D6_41C1_55D756F55904.toolTip = Futura Piscina de Ondas (em construção)
+
+## Action
+
+### URL
+LinkBehaviour_B35213CB_AD71_3E1A_41D8_B3EE813E8F72.source = https://www.instagram.com/thermasdamata/
+LinkBehaviour_BB89E304_ACB0_FE0E_418D_283532209596.source = https://www.instagram.com/thermasdamata/
+PopupWebFrameBehaviour_8B27B635_9BAA_7222_41A5_2AFF42A811E6.url = https://www.reservasthermasdamata.com.br/
+PopupWebFrameBehaviour_B354A3BB_AD71_3E7A_41DB_8F566E845588.url = https://www.reservasthermasdamata.com.br/
+PopupWebFrameBehaviour_B35503BB_AD71_3E7A_41DB_47EC26DE320B.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2584.7837073795968!2d-46.953697426703876!3d-23.62454566911484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfa82610303349%3A0xcc0ce1ccf01865b1!2sThermas%20da%20Mata!5e0!3m2!1spt-BR!2sbr!4v1630694393019!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_B35583BB_AD71_3E7A_41E0_C252AD1E3CFD.url = https://www.thermasdamata.com.br/
+PopupWebFrameBehaviour_B4F3E343_AC93_3E09_41DB_AC261DB0B5DE.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2584.7837073795968!2d-46.953697426703876!3d-23.62454566911484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfa82610303349%3A0xcc0ce1ccf01865b1!2sThermas%20da%20Mata!5e0!3m2!1spt-BR!2sbr!4v1630694393019!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_B4FC9BDE_AC90_CE3A_41AE_FEECFE007117.url = https://www.thermasdamata.com.br/
